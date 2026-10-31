@@ -1,1 +1,1 @@
-Hi everyone! This is how merge conflict happens.
+Hi everyone! Created Merge Conflict again.
