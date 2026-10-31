@@ -1,1 +1,1 @@
-This is another file to be uploaded to GitHub!
+This is another file to be uploaded to GitHub! This is the additional text for merging!
