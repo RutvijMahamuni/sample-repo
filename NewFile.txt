@@ -1,1 +1,1 @@
-Hi everyone! Welcome to the second session of Git!
+Hi everyone! This is how merge conflict happens.
